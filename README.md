@@ -1,7 +1,7 @@
 # Deepground
 <div align=center>
 
-[![Deepground](https://github.com/evilfeonix/deepground/banner.png)](https://www.python.org/)
+[![Deepground](https://github.com/evilfeonix/deepground/banner.png)](https://github.com/evilfeonix/deepground/)
 
 Deepground – Clearnet + Darknet Search & Fetcher
 
@@ -184,6 +184,7 @@ This project is made posibly thanks to those infrastructure with their generous 
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)  
 [![PyPI](https://img.shields.io/pypi/v/deepground-evilfeonix.svg)](https://pypi.org/project/deepground-evilfeonix/)  
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
+
 
 
 
