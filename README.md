@@ -8,7 +8,7 @@ Deepground – Clearnet + Darknet Search & Fetcher
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-[![Version](https://img.shields.io/badge/VERSION-0.8.1.svg)](https://github.com/evilfeonix/deepground) 
+[![Version](https://img.shields.io/badge/VERSION-0.8.1-yellow.svg)](https://github.com/evilfeonix/deepground) 
 [![Repo Size](https://img.shields.io/github/repo-size/evilfeonix/deepground)](https://github.com/evilfeonix/deepground)  
 [![Stars](https://img.shields.io/github/stars/evilfeonix/deepground?style=social)](https://github.com/evilfeonix/deepground/stargazers)  
 [![Forks](https://img.shields.io/github/forks/evilfeonix/deepground?style=social)](https://github.com/evilfeonix/deepground/network/members)  
@@ -184,5 +184,6 @@ This project is made posibly thanks to those infrastructure with their generous 
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)  
 [![PyPI](https://img.shields.io/pypi/v/deepground-evilfeonix.svg)](https://pypi.org/project/deepground-evilfeonix/)  
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
+
 
 
