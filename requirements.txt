@@ -1,0 +1,8 @@
+ssl
+bs4
+ddgs
+requests[socks]
+aiohttp
+aiohttp-socks
+langchain
+typing-extensions

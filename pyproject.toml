@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools", "wheel", "twine"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deepground"
+version = "0.8.2"
+description = "Deepground - A Python library that empowers LLM agents with real-time data access from both the clear and dark net."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+authors = [
+    { name = "Evilfeonix", email = "evilfeonix@proton.me" }
+]
+
+keywords = [
+    "LLM",
+    "real-time",
+    "darknet",
+    "search",
+    "osint",
+    "tor",
+    "ai",
+    "darkweb",
+    "groundX",
+    "groundnet",
+    "deepground",
+    "grounder",
+    "evilfeonix",
+    "grounding info",
+    "information gathering"
+]
+
+dependencies = [
+    "requests[socks]",
+    "aiohttp",
+    "ddgs",
+    "aiohttp-socks",
+    "beautifulsoup4",
+    "langchain",
+    "typing-extensions"
+]
+
+[project.urls]
+Homepage = "https://github.com/evilfeonix/deepground"
+Issues = "https://github.com/evilfeonix/deepground/issues"
